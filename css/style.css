@@ -74,6 +74,10 @@ section h3 {
 }
 
 @media screen and (max-width: 550px) {
+
+    header {
+        background-color: #F2F2CD;
+    }
     section img {
         padding: 1rem;
     }
