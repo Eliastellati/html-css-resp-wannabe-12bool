@@ -7,7 +7,7 @@
 .container {
     max-width: 1200px;
     margin: 0 auto;
-    background-color: yellow;
+    /* background-color: yellow; */
 }
 
 .container::after {
@@ -19,7 +19,7 @@
 [class*="col-"] {
     float: left;
     height: 100%;
-    background: salmon;
+    /* background: salmon; */
 }
 
 
