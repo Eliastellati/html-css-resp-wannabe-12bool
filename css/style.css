@@ -53,3 +53,22 @@ section h3 {
 .why [class*="col-"] {
     padding-top: 3rem;
 }
+
+@media screen and (max-width: 1199px) and (min-width: 550px) {
+    
+    body {
+        text-align: center;
+    }
+    
+    header [class*="col-"] {
+        padding: 2rem;
+    }
+    
+    h1 {
+        margin: 0 auto;
+    }
+
+    section h1 {
+        padding: 3rem;
+    }
+}
